@@ -1,5 +1,5 @@
 #!/bin/bash
-bash ./git-init.sh
+bash ~/startapp/git-init.sh
 apt-get -y install npm
 npm install --global yarn
 cd $PROJECT_DIRECTORY

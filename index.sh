@@ -1,3 +1,3 @@
 #!/bin/bash
 apt-get -y install $PACKAGES
-bash ./${SCRIPT_NAME}.sh
+bash ~/startapp/${SCRIPT_NAME}.sh
