@@ -1,4 +1,9 @@
-﻿###### GIT
+﻿###### Environment variables
+| Variable name | Description |
+| --- | --- |
+| SCRIPT_NAME | Name of the script to run on startup (e.g. `node` to run node.sh) |
+
+###### GIT
 If the shell script depends on a git repository the following environment variables must be set when running the container.
 
 | Variable name | Description |
